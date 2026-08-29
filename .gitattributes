@@ -1,0 +1,7 @@
+* text=auto
+*.m text eol=lf
+*.md text eol=lf
+*.fig binary
+*.mat binary
+*.obj binary
+*.stl binary

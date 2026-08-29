@@ -1,0 +1,38 @@
+# MATLAB generated files
+*.asv
+*.autosave
+*.m~
+*.mex*
+*.mlappinstall
+*.slxc
+*.slddc
+slprj/
+codegen/
+
+# Large simulation and experimental data
+*.mat
+*.h5
+*.hdf5
+*.nii
+*.nii.gz
+*.obj
+*.stl
+data/*
+!data/examples/
+!data/examples/.gitkeep
+
+# Generated results
+results/*
+!results/.gitkeep
+!results/Photon_64.fig
+
+# Local configuration
+config/project_config.m
+.env
+.env.*
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

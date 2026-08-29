@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the repository and the relevant associated publication."
+title: "Monte Carlo Photon Transport and DPF Research"
+type: software
+authors:
+  - family-names: Niknam
+    given-names: Kaiser
+repository-code: "REPLACE_WITH_PRIVATE_GITHUB_URL"
+license: proprietary
+keywords:
+  - Monte Carlo photon transport
+  - near-infrared spectroscopy
+  - differential pathlength factor
+  - biomedical optics
+  - MATLAB
